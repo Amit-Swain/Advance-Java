@@ -11,6 +11,7 @@ public class Demo{
         nums.add(5);
         nums.add(8);
         nums.add(2);
+        nums.add(6);
 
         // System.out.println(nums);
         // System.out.println(nums.get(2));
